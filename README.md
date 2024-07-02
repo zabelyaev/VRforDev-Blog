@@ -4,7 +4,7 @@
 
 # Статьи
 
-1. [Реалистичная механика открывания дверей и ящиков | Best Way to Open Door or Drawer into VR](https://github.com/zabelyaev/VRforDev-Blog/blob/main/Реалистичная%20механика%20открывания%20дверей%20и%20ящиков/Реалистичная%20механика%20открывания%20дверей%20и%20ящиков.md)
+1. [Реалистичная механика открывания дверей и ящиков | Best Way to Open Door or Drawer into VR](https://github.com/zabelyaev/VRforDev-Blog/blob/main/Best%20Way%20to%20Open%20Door%20or%20Drawer%20into%20VR/Article.md)
 
 # Контакты
 
