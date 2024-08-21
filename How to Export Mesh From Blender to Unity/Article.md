@@ -1,4 +1,4 @@
-# Правильный экспорт моделей (мешей) из Blender в Unity
+# Правильный экспорт моделей (мешей) из Blender в Unity | How to Export Model (Mesh) from Blender to Unity
 
 В этой статье мы разберем, как правильно экспортировать меши из Blender в Unity, без анимаций.
 
