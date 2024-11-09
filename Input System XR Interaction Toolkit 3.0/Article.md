@@ -1,3 +1,5 @@
+# Система ввода XR Interaction Toolkit 3.0 | Input System XR Interaction Toolkit 3.0
+
 В этой статье рассматриваются способы работы с системой ввода в XR Interaction Toolkit.
 
 Открываем Unity Hub и создаем новый проект, в качестве шаблона будем использовать VR Core.
