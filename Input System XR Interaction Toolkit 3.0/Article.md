@@ -1,4 +1,4 @@
-# Система ввода XR Interaction Toolkit 3.0 | Input System XR Interaction Toolkit 3.0
+# Система ввода в XR Interaction Toolkit 3.0 | How to XRI Input System Works
 
 В этой статье рассматриваются способы работы с системой ввода в XR Interaction Toolkit.
 
