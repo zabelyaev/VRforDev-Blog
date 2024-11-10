@@ -169,7 +169,7 @@ private IEnumerator ListenAButtonClick()
 
 Вернемся в окно **Game**, нажмем **Tab**, чтобы перейти на управление шлемом, и теперь я зажму **Shift** и начну ходить, таким образом **Character Controller** подмагнитится к тому месту, где у меня находятся контролеры.
 
-[https://disk.yandex.ru/i/HqDdVRdPP9nUOA](https://disk.yandex.ru/i/HqDdVRdPP9nUOA)
+![MoveCharacterController.gif](images/MoveCharacterController.gif)
 
 Теперь, нажимая **Tab** мы должны сделать активной правую руку. На рисунке видно, что клавиша **A** на контроллере - это **B** на клавиатуре, нажимаем **B**, запускается диалог, когда он закончится у нас снова появится текстовая подсказка.
 
